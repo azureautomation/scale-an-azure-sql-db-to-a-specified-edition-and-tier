@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/scale-an-azure-sql-db-to-a-specified-edition-and-tier/master/Scale-AzureSQLDB.graphrunbook",
+    "DownloadCount": 5029,
+    "Id": "Scale-an-Azure-SQL-DB-to-a-be57022d",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 60,
+    "RaterCount": 3,
+    "Rating": 4.7,
+    "ReleaseDate": "2016-6-3T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This runbook scales an Azure SQL Database to the specified edition and tier. You can look up the available editions and tiers on https://azure.microsoft.com/en-us/documentation/articles/sql-database-service-tiers/",
+    "Title": "Scale an Azure SQL DB to a specified edition and tier",
+    "UpdatedDate": "2016-6-26T00:00:00",
+    "Url": "https://github.com/azureautomation/scale-an-azure-sql-db-to-a-specified-edition-and-tier",
+    "UserTags": "Windows Azure SQL Database, Azure Automation, GraphicalPS"
+}
